@@ -5,4 +5,4 @@ Usage :
 
 blue-green.sh < appname >
   
-NOTE : manifest file should be <appname>_manifest.yml 
+NOTE : manifest file should be < appname >_manifest.yml 
