@@ -3,7 +3,7 @@ This repo help to achieve blue-green deployment in pivotal cloud foundry.
 
 Usage :
 
-blue-green.sh <app_name> <environment> <pcf_space_name>
+blue-green.sh <app_name> <`environment`> <pcf_space_name>
   
 NOTE :  
  
